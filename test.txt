@@ -1,1 +1,2 @@
-branch master
+branch master after creating new branch develop/1.1.0
+new line text
